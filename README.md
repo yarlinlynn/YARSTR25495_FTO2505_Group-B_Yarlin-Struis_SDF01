@@ -1,13 +1,6 @@
-# 👋 Hi, I'm Yarlin
+# 👋 Hi, It's nice to meet you
 
-### 🎯 About Me
-
-- 💡 I'm currently learning **GitHub and version control** before diving into coding.
-- 🎓 Soon, I'll be exploring **HTML, CSS, and JavaScript**!
-- 🤖 I love problem-solving and working on creative projects.
-- 🔥 Looking forward to building my first real-world application.
-
----
+I'm **Yarlin**, a motivated and result driven individual who is currently a student at **CodeSpace** aspiring to become a **Full-Stack Developer**
 
 ## 🛠️ Tech Stack
 
@@ -30,22 +23,26 @@ Here are some of my milestone projects (to be updated as I progress!):
 ### 1️⃣ Glowing - eCommerce Website
 
 <a href="https://glowing-skincare-ecommerce-website.netlify.app/"><strong>➥ Live Demo</strong></a> <br/>
-**Description:** Glowing is a fully responsive skincare eCommerce website utilizing javascript to make the cart functional, allowing you to add to cart, increase, decrease the quantity of items which will update the cart total and as delete items from the cart, creating a dynamic site.
+**Description:** Glowing is a fully responsive skincare eCommerce website utilizing javascript to make the cart functional, allowing you to add to cart, increase, decrease the quantity of items which will update the cart total and as delete items from the cart, creating a dynamic site.<br/>
 **Technologies:** HTML, CSS, JavaScript <br/>
-**Status:** ✅ Completed <br/>
+**Status:** ✅ Completed
 
 ### 2️⃣ Personal Portfolio
 
 <a href="https://yarlinlynn-portfolio.netlify.app/"><strong>➥ Live Demo</strong></a><br/>
-**Description:** A simple portfolio that makes use of css keyframes that allow my svg's to animate throughout the site.<br/>  
+**Description:** a modern and interactive portfolio designed to showcase my projects, css animations and credientials. Animated grid layouts to enhance user experience. Dynamic content: Sections for projects, education, resume, and contact information. Fully optimized for all screen sizes, including mobile, tablet, and desktop<br/>  
 **Technologies:** HTML, CSS, JavaScript<br/>
 **Status:** ⏳ In Progress
 
 ## 📚 Learning Goals
 
-- 🚀 Get comfortable using Git
-- 🎨 Learn JavaScript, React and Next.js
-- 💡 Build fullstack real-world projects and collaborate with others
+- 🚀 Get better at my Git commands
+- 🤖 Learn JavaScript, React and Typescript
+- 🎯 Learn Backend development
+- 💡 Get better at UI/UX Design
+- 🎨 Learn Blender to incorperate 3d elements into websites
+- 🎓 Build creative fullstack applications with Next.js and Three.js
+- 🔥 Learn to freelance to get potential clients and get better at networking
 
 # 📊 GitHub Stats:
 
@@ -57,7 +54,7 @@ Here are some of my milestone projects (to be updated as I progress!):
 
 ## 💡 Fun Fact About Me
 
-I have a secret oppssion with reading manga, manhwa outside of the time I'm working on code.
+I have a secret obession with reading manga, manhwa outside of the time I'm working on code.
 
 ## 📫 Connect with Me
 

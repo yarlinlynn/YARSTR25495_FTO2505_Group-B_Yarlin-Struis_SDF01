@@ -1,6 +1,6 @@
 # 👋 Hi, It's nice to meet you
 
-I'm **Yarlin**, a motivated and result driven individual who is currently a student at **CodeSpace** aspiring to become a **Full-Stack Developer**
+I'm **Yarlin**, a motivated and results driven individual who is currently a student at **CodeSpace** aspiring to become a **Full-Stack Developer**
 
 ## 🛠️ Tech Stack
 
@@ -30,7 +30,7 @@ Here are some of my milestone projects (to be updated as I progress!):
 ### 2️⃣ Personal Portfolio
 
 <a href="https://yarlinlynn-portfolio.netlify.app/"><strong>➥ Live Demo</strong></a><br/>
-**Description:** a modern and interactive portfolio designed to showcase my projects, css animations and credientials. Animated grid layouts to enhance user experience. Dynamic content: Sections for projects, education, resume, and contact information. Fully optimized for all screen sizes, including mobile, tablet, and desktop<br/>  
+**Description:** a modern and interactive portfolio designed to showcase my projects, css animations and credientials. Animated grid layouts to enhance user experience. Dynamic content: Sections for projects, education, resume, and contact information. Fully optimized for all screen sizes, including mobile, tablet, and desktop.<br/>  
 **Technologies:** HTML, CSS, JavaScript<br/>
 **Status:** ⏳ In Progress
 
@@ -54,7 +54,7 @@ Here are some of my milestone projects (to be updated as I progress!):
 
 ## 💡 Fun Fact About Me
 
-I have a secret obession with reading manga, manhwa outside of the time I'm working on code.
+I have a secret obession with reading manga, manhwa during the time I'm not coding.
 
 ## 📫 Connect with Me
 
